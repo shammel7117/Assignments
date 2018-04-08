@@ -1,4 +1,4 @@
-# Ian McLoughlin
+# Code as written by Ian McLoughlin as part of Data analytics course Topics 1+2
 # A program that displays Fibonacci numbers using people's names.
 
 def fib(n):
